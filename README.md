@@ -1,6 +1,6 @@
-# CoinTrader
+# Tauscher
 
-## トレーダー本体
+## Main
 
 ## Getting  Started
 
